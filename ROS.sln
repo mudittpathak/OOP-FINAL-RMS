@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ROS", "ROS.csproj", "{0A955245-219E-4961-8E63-8431E6010F47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A955245-219E-4961-8E63-8431E6010F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A955245-219E-4961-8E63-8431E6010F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A955245-219E-4961-8E63-8431E6010F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A955245-219E-4961-8E63-8431E6010F47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0CFB1E0-FCBD-4219-A599-CA2F53F14F88}
+	EndGlobalSection
+EndGlobal
